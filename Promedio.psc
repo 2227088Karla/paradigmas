@@ -1,10 +1,10 @@
 Algoritmo Promedio
-	//KARLA NATALIA GONZALEZ HERRERA ICO i2
+	//KNGH ICO i2
 	escribir "Programa que saca el promedio de calificaciones"
 	//el usuario ingresa cinco calificaciones
-	escribir "Ingresa tu calificación de Matemáticas Discretas: "
+	escribir "Ingresa tu calificaciÃ³n de MatemÃ¡ticas Discretas: "
 	leer c1
-	escribir "Ingresa tu calificación de Paradigmas de programación: "
+	escribir "Ingresa tu calificaciÃ³n de Paradigmas de programaciÃ³n: "
 	leer c2
 	escribir "Ingresa tu calificacion de Calculo 3: "
 	leer c3

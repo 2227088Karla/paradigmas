@@ -1,5 +1,5 @@
 Algoritmo Operaciones_Basicas
-	// KARLA NATALIA GONZALEZ HERRERA ICO i2
+	// KNGH ICO i2
 	escribir "Ingresa un numero mayor a 20"
 	//el usuario ingresa dos numeros
 	leer num1
@@ -10,8 +10,8 @@ Algoritmo Operaciones_Basicas
 	resta=num1+num2 //restar
 	escribir "La resta es: " resta 
 	div=num1+num2 //division
-	escribir "La división es: " div
+	escribir "La divisiÃ³n es: " div
 	mult=num1+num2 //multiplicacion
-	escribir "La multipicacaión es: " mult
+	escribir "La multipicacaiÃ³n es: " mult
 	//Paradigmas de programacion 1
 FinAlgoritmo
